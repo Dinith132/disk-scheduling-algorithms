@@ -6,11 +6,6 @@
 * Calculator disk scheduling: SSTF, SCAN, FCFS, C_SCAN, LOOK, C_LOOK,
 * Charting
 
-# Image
-![Image of CanhhnaC](/images/1.jpg)
-![Image of CanhhnaC](/images/2.jpg)
-![Image of CanhhnaC](/images/3.jpg)
-
 ## :gear: Setup your own
 
 ```bash
@@ -18,7 +13,7 @@
  Python 3.7
 
 # Clone repo
- $ git clone https://github.com/CanhhnaC/disk-scheduling-algorithms.git
+ $ https://github.com/Dinith132/disk-scheduling-algorithms.git
  
  $ cd disk-scheduling-algorithms
  
